@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom";
-import React, { useState } from "react";
+import React, { useState, Component } from "react";
 
 // The editor core
 import Editor from "@react-page/editor";
